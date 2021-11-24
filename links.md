@@ -11,3 +11,5 @@
 [Logic-Calculator](https://www.erpelstolz.at/gateway/formular-uk-zentral.html)
 
 [DSA-Implementations](https://github.com/amitbansal7/Data-Structures-and-Algorithms)
+
+[Quine-mccluskey-tabular-method](https://atozmath.com/KMap.aspx?q=quine)
