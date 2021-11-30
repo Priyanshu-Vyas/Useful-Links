@@ -13,3 +13,7 @@
 [DSA-Implementations](https://github.com/amitbansal7/Data-Structures-and-Algorithms)
 
 [Quine-mccluskey-tabular-method](https://atozmath.com/KMap.aspx?q=quine)
+
+[selenium-installation](https://selenium-python.readthedocs.io/installation.html)
+
+[selenium-youtube](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ)
