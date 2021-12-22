@@ -21,3 +21,5 @@
 [AtoZ-Math-Calc](http://atozmath.com/)
 
 [Java-resourse](https://github.com/in28minutes/java-cheat-sheet)
+
+[DFA-Minimizer](https://aswaddev.github.io/dfa-minimizer/)
