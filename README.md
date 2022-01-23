@@ -26,3 +26,5 @@ Useful link and material
 [Java-resourse](https://github.com/in28minutes/java-cheat-sheet)
 
 [DFA-Minimizer](https://aswaddev.github.io/dfa-minimizer/)
+
+[Disk-Scheduling](https://solver.assistedcoding.eu/disk_scheduling)
